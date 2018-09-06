@@ -4,8 +4,9 @@ def using_until
 
   counter = 0
   until levitation_force == counter
-    counter+=
+    counter+=1
+    puts "Wingardium Leviosa"
   end
-  puts "Wingardium Leviosa"
+
 
 end
